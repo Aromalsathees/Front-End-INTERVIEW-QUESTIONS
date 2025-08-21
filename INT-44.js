@@ -5,7 +5,7 @@
 // console.log(name())
 
 
-//22//
+//2//
 // console.log([] == [])
 
 
@@ -52,6 +52,7 @@
 //     console.log('am last')
 // }
 // abc()
+
 
 //8
 //  what's Optional Chaining ? //
